@@ -1,0 +1,33 @@
+{
+  "name": "browserstack-protractor",
+  "description": "A wrapper to start browserstack local before protractor test are running.",
+  "keywords": [
+    "browserstack",
+    "protractor",
+    "angular",
+    "test",
+    "testing"
+  ],
+  "author": {
+    "name": "Alexander Miehe",
+    "email": "alexander.miehe@movingimage24.com"
+  },
+  "dependencies": {
+    "browserstacklocal": "0.0.4",
+    "protractor": "~1.0.0",
+    "optimist": "~0.6.1",
+    "nconf": "~0.6.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "protractor": "bin/browserstack-protractor"
+  },
+  "private": true,
+  "main": "lib/browserstack-protractor.js",
+  "license": "MIT",
+  "version": "0.0.1",
+  "readmeFilename": "README.md"
+}
