@@ -25,7 +25,6 @@
   "bin": {
     "protractor": "bin/browserstack-protractor"
   },
-  "private": true,
   "main": "lib/browserstack-protractor.js",
   "license": "MIT",
   "version": "0.0.1",
