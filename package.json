@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com/MovingImage24/browserstack-protractor.git"
+        "url": "git://github.com/MovingImage24/browserstack-protractor.git"
     },
     "devDependencies": {},
     "scripts": {
